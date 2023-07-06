@@ -30,7 +30,7 @@ export default function Home() {
         <div class="w-full max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
             <div class="md:flex">
                 <div class="md:flex-shrink-0">
-                    <img class="h-48 w-full object-cover md:h-full md:w-48" src="https://via.placeholder.com/150" alt="Upload Placeholder"></img>
+                    <img class="h-48 w-full object-cover md:h-full md:w-48" src="https://raw.githubusercontent.com/smmalik3/get-text-from-image/main/public/GTFI_Logo_Small.png" alt="Upload Placeholder"></img>
                 </div>
                 <div class="p-8">
                     <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Get Text From Image</div>
